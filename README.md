@@ -34,15 +34,15 @@ Proyecto académico en equipo que propone un laboratorio virtualizado para organ
 - Avance documentado: investigación, organización del proyecto y propuesta de interfaz mediante wireframes y mockups.
 - Estado: en desarrollo. Las tecnologías e integraciones previstas no se presentan como despliegues terminados.
 
-[Consultar HOSTLOCK](https://github.com/Dcardona-create/PROYECT)
+[Consultar HOSTLOCK](https://github.com/deivid-cardona/PROYECT)
 
 ## Prácticas académicas
 
 | Repositorio | Contenido |
 |---|---|
-| [Actividades de ASIX II](https://github.com/Dcardona-create/Actividades-ASIXII) | Actividades y documentación de mi formación |
-| [Redes](https://github.com/Dcardona-create/Redes-Alina) | Prácticas de Cisco, VLAN, direccionamiento IP y OSPF |
-| [Bases de datos](https://github.com/Dcardona-create/Base_de_datos-Quim) | SQL, MariaDB, procedimientos almacenados, roles y sistemas CRUD |
+| [Actividades de ASIX II](https://github.com/deivid-cardona/Actividades-ASIXII) | Actividades y documentación de mi formación |
+| [Redes](https://github.com/deivid-cardona/Redes-Alina) | Prácticas de Cisco, VLAN, direccionamiento IP y OSPF |
+| [Bases de datos](https://github.com/deivid-cardona/Base_de_datos-Quim) | SQL, MariaDB, procedimientos almacenados, roles y sistemas CRUD |
 
 ## Cómo documento mi aprendizaje
 
